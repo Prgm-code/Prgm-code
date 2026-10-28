@@ -1,11 +1,11 @@
 <h1 align="center">Patricio Gómez Meneses</h1>
 
 <p align="center">
-  Ingeniero electrónico y desarrollador de software full stack. Creo aplicaciones web con React, TypeScript, Node.js, Java y Go. Aficionado a la electrónica, la automatización y la domótica. De Puerto Montt, Chile.
+  Electronics engineer and full stack software developer. I build web applications with React, TypeScript, Node.js, Java and Go. Into electronics, automation and home automation. Based in Puerto Montt, Chile.
 </p>
 
 <p align="center">
-  <a href="https://prgm.cl"><img src="https://img.shields.io/badge/Portafolio-prgm.cl-111?style=for-the-badge&logo=astro&logoColor=white" alt="Portafolio"></a>
+  <a href="https://prgm.cl/en/"><img src="https://img.shields.io/badge/Portfolio-prgm.cl-111?style=for-the-badge&logo=astro&logoColor=white" alt="Portfolio"></a>
   <a href="https://www.linkedin.com/in/prgm/"><img src="https://img.shields.io/badge/LinkedIn-prgm-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
@@ -21,29 +21,29 @@
 
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,nestjs,java,spring,go,rust,python,c" alt="Backend"></a>
 
-**Datos e infraestructura**
+**Data and infrastructure**
 
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,docker,linux,githubactions,vercel,bash" alt="Infraestructura"></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,docker,linux,githubactions,vercel,bash" alt="Infrastructure"></a>
 
-También: TanStack Start, Convex, Tauri, Spring Data JPA, MQTT, S3, Clean Architecture y CI/CD.
+Also: TanStack Start, Convex, Tauri, Spring Data JPA, MQTT, S3, Clean Architecture and CI/CD.
 
-## 🚀 Proyectos destacados
+## 🚀 Featured projects
 
-| Proyecto | Qué es | Stack |
+| Project | What it is | Stack |
 | --- | --- | --- |
-| [**FatFingers**](https://github.com/Prgm-code/FatFingers) · [sitio](https://fatfingers.lakebed.app/) | Asistente de escritura de escritorio estilo Spotlight/Raycast: corrige y reescribe texto con un proveedor LLM configurable. Atajo global, tray y API keys guardadas en el keyring del sistema. | Tauri v2 · Rust · React · TypeScript |
-| [**BackupForge**](https://github.com/Prgm-code/BackupForge) | Plano de control self-hosted para respaldos de Convex: jobs programados, runners en Docker, almacenamiento compatible con S3 y monitoreo en tiempo real. | Go · TypeScript · Docker |
-| [**PortalTrip**](https://github.com/Prgm-code/portaltrip) · [demo](https://portaltrip.prgm.codes) | API REST con autenticación JWT, reservas, cotizaciones del lado del servidor y 100 % de cobertura de tests, más su [frontend](https://github.com/Prgm-code/portaltrip-frontend). | Java 26 · Spring Boot 4 · PostgreSQL |
-| [**frigate-openclaw-notifier**](https://github.com/Prgm-code/frigate-openclaw-notifier) | Escucha eventos MQTT de Frigate (NVR) y envía alertas con snapshot y clip por WhatsApp. Se integra con Home Assistant mediante MQTT Discovery. | Node.js · TypeScript · MQTT · ffmpeg |
-| [**porfolio-astro**](https://github.com/Prgm-code/porfolio-astro) · [prgm.cl](https://prgm.cl) | Mi portafolio personal, bilingüe y con modo oscuro. | Astro · TypeScript |
+| [**FatFingers**](https://github.com/Prgm-code/FatFingers) · [site](https://fatfingers.lakebed.app/) | Spotlight/Raycast-style desktop writing assistant that fixes and rewrites text with a configurable LLM provider. Global shortcut, tray menu, and API keys stored in the system keyring. | Tauri v2 · Rust · React · TypeScript |
+| [**BackupForge**](https://github.com/Prgm-code/BackupForge) | Self-hosted backup control plane for Convex: scheduled jobs, Docker runners, S3-compatible storage and real-time monitoring. | Go · TypeScript · Docker |
+| [**PortalTrip**](https://github.com/Prgm-code/portaltrip) · [demo](https://portaltrip.prgm.codes) | REST API with JWT auth, reservations, server-side quotes and 100% test coverage, plus its [frontend](https://github.com/Prgm-code/portaltrip-frontend). | Java 26 · Spring Boot 4 · PostgreSQL |
+| [**frigate-openclaw-notifier**](https://github.com/Prgm-code/frigate-openclaw-notifier) | Listens to Frigate (NVR) MQTT events and sends WhatsApp alerts with a snapshot and clip. Integrates with Home Assistant through MQTT Discovery. | Node.js · TypeScript · MQTT · ffmpeg |
+| [**porfolio-astro**](https://github.com/Prgm-code/porfolio-astro) · [prgm.cl](https://prgm.cl/en/) | My personal portfolio, bilingual with dark mode. | Astro · TypeScript |
 
-## 🤝 Contribuciones open source
+## 🤝 Open source contributions
 
-| Proyecto | Aporte |
+| Project | Contribution |
 | --- | --- |
-| [**T3 Code**](https://github.com/pingdotgg/t3code) (pingdotgg, ⭐ 30k+) | [#3816](https://github.com/pingdotgg/t3code/pull/3816): corrige el empaquetado de dependencias nativas opcionales en la app de escritorio. |
-| [**autoskills**](https://github.com/midudev/autoskills) (midudev, ⭐ 6.9k+) | [#99](https://github.com/midudev/autoskills/pull/99): reemplaza las skills de Cloudflare eliminadas por `agents-sdk` en la detección. |
+| [**T3 Code**](https://github.com/pingdotgg/t3code) (pingdotgg, ⭐ 30k+) | [#3816](https://github.com/pingdotgg/t3code/pull/3816): fixes packaging of optional native dependencies in the desktop app. |
+| [**autoskills**](https://github.com/midudev/autoskills) (midudev, ⭐ 6.9k+) | [#99](https://github.com/midudev/autoskills/pull/99): replaces the deleted Cloudflare skills with `agents-sdk` in detection. |
 
-## 📫 Contacto
+## 📫 Contact
 
-¿Tienes un proyecto o una vacante? Escríbeme por [LinkedIn](https://www.linkedin.com/in/prgm/) o revisa mi trabajo en [prgm.cl](https://prgm.cl).
+Have a project or a job opening? Reach me on [LinkedIn](https://www.linkedin.com/in/prgm/) or see my work at [prgm.cl](https://prgm.cl/en/).
