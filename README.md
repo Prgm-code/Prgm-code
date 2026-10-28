@@ -11,9 +11,7 @@
 
 ---
 
-Soy ingeniero electrónico y desarrollador full stack. Hago aplicaciones web con React y TypeScript, APIs en Node.js, Java y Go, y las despliego con Docker en Linux.
-
-Por mi formación en electrónica también programo en C y armo proyectos de domótica con MQTT y Home Assistant. En los últimos proyectos uso IA: apps de escritorio con LLMs, agentes locales y automatizaciones.
+Ingeniero electrónico y desarrollador de software full stack. Creo aplicaciones web con React, TypeScript, Node.js, Java y Go. Aficionado a la electrónica, la automatización y la domótica. De Puerto Montt, Chile.
 
 ## 🛠️ Stack
 
