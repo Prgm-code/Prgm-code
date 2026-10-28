@@ -1,7 +1,7 @@
 <h1 align="center">Patricio Gómez Meneses</h1>
 
 <p align="center">
-  <strong>Ingeniero electrónico · Full Stack Developer</strong> en Reactive SpA · Puerto Montt, Chile 🇨🇱
+  Ingeniero electrónico y desarrollador de software full stack. Creo aplicaciones web con React, TypeScript, Node.js, Java y Go. Aficionado a la electrónica, la automatización y la domótica. De Puerto Montt, Chile.
 </p>
 
 <p align="center">
@@ -10,8 +10,6 @@
 </p>
 
 ---
-
-Ingeniero electrónico y desarrollador de software full stack. Creo aplicaciones web con React, TypeScript, Node.js, Java y Go. Aficionado a la electrónica, la automatización y la domótica. De Puerto Montt, Chile.
 
 ## 🛠️ Stack
 
