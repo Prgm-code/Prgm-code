@@ -37,6 +37,13 @@ También: TanStack Start, Convex, Tauri, Spring Data JPA, MQTT, S3, Clean Archit
 | [**frigate-openclaw-notifier**](https://github.com/Prgm-code/frigate-openclaw-notifier) | Escucha eventos MQTT de Frigate (NVR) y envía alertas con snapshot y clip por WhatsApp. Se integra con Home Assistant mediante MQTT Discovery. | Node.js · TypeScript · MQTT · ffmpeg |
 | [**porfolio-astro**](https://github.com/Prgm-code/porfolio-astro) · [prgm.cl](https://prgm.cl) | Mi portafolio personal, bilingüe y con modo oscuro. | Astro · TypeScript |
 
+## 🤝 Contribuciones open source
+
+| Proyecto | Aporte |
+| --- | --- |
+| [**T3 Code**](https://github.com/pingdotgg/t3code) (pingdotgg, ⭐ 30k+) | [#3816](https://github.com/pingdotgg/t3code/pull/3816): corrige el empaquetado de dependencias nativas opcionales en la app de escritorio. |
+| [**autoskills**](https://github.com/midudev/autoskills) (midudev, ⭐ 6.9k+) | [#99](https://github.com/midudev/autoskills/pull/99): reemplaza las skills de Cloudflare eliminadas por `agents-sdk` en la detección. |
+
 ## 📫 Contacto
 
 ¿Tienes un proyecto o una vacante? Escríbeme por [LinkedIn](https://www.linkedin.com/in/prgm/) o revisa mi trabajo en [prgm.cl](https://prgm.cl).
