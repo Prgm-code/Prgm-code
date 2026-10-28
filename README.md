@@ -1,7 +1,7 @@
 <h1 align="center">Patricio Gómez Meneses</h1>
 
 <p align="center">
-  <strong>Full Stack Developer</strong> en Reactive SpA · Puerto Montt, Chile 🇨🇱
+  <strong>Ingeniero electrónico · Full Stack Developer</strong> en Reactive SpA · Puerto Montt, Chile 🇨🇱
 </p>
 
 <p align="center">
@@ -11,9 +11,9 @@
 
 ---
 
-Construyo aplicaciones web de punta a punta: interfaces en React, APIs en Node.js, Java o Go, y la infraestructura que las mantiene corriendo. Me interesa el software que se puede operar sin sustos: arquitectura clara, tests, despliegues reproducibles y sistemas self-hosted que entiendo de arriba abajo.
+Soy ingeniero electrónico y desarrollador full stack. Hago aplicaciones web con React y TypeScript, APIs en Node.js, Java y Go, y las despliego con Docker en Linux.
 
-Últimamente trabajo mucho con herramientas de IA aplicadas al desarrollo: apps de escritorio con LLMs, agentes locales y automatización.
+Por mi formación en electrónica también programo en C y armo proyectos de domótica con MQTT y Home Assistant. En los últimos proyectos uso IA: apps de escritorio con LLMs, agentes locales y automatizaciones.
 
 ## 🛠️ Stack
 
@@ -23,7 +23,7 @@ Construyo aplicaciones web de punta a punta: interfaces en React, APIs en Node.j
 
 **Backend**
 
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,nestjs,java,spring,go,rust,python" alt="Backend"></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,nestjs,java,spring,go,rust,python,c" alt="Backend"></a>
 
 **Datos e infraestructura**
 
